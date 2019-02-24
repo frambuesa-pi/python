@@ -1,3 +1,7 @@
+#############################################
+#_____https://frambuesa-pi.blogspot.com/____#
+#___https://github.com/frambuesa-pi/python__#
+#############################################
 # importamos la libreria GPIO
 import RPi.GPIO as GPIO
 # importamos la libreria time
