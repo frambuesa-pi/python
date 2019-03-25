@@ -16,7 +16,7 @@ Aquí encontraréis el código fuente de los diferentes ejercicios desarrollados
 
 ## 3- Organización
 
-El repositorio Python contiene la carpeta **02ConectoresGPIO** que a la vez contiene una carpeta por cada uno de los posts siguiendo la misma nomenclatura que encontraréis en el [Blog][blog_programacion]. Dentro de cada una de las carpetas podréis encontrar uno o varios archivos dependiendo del número de ejercicios de cada post.  
+El repositorio Python contiene dos carpetas **01ProgramacionPythonParaPaspberryPi** y  **02ConectoresGPIO** que a la vez contienen una carpeta por cada uno de los posts siguiendo la misma nomenclatura que encontraréis en el [Blog][blog_programacion]. Dentro de cada una de las carpetas podréis encontrar uno o varios archivos dependiendo del número de ejercicios de cada post.  
 Espero que os sea útil.
 ___  
 
@@ -31,6 +31,6 @@ Here you will find the source code of Python exercices from the [Blog][blog_prog
 
 ## 3- Organization
 
-Python repositry contains **02ConectoresGPIO** folder, wich also contains a folder for each posts following the same nomenclature that you will find in the [Blog][blog_programacion]. Within each of the folders you can find one or more files depending on the number of exercises of each post.  
+Python repositry contains two folders **01ProgramacionPythonParaPaspberryPi** and **02ConectoresGPIO**, wich also contains a folder for each posts following the same nomenclature that you will find in the [Blog][blog_programacion]. Within each of the folders you can find one or more files depending on the number of exercises of each post.  
 I hope you find it useful.
 
